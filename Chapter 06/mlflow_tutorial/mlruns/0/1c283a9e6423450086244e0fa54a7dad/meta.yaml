@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/work/book_drafts/src/mlflow_tutorial/mlruns/0/1c283a9e6423450086244e0fa54a7dad/artifacts
+end_time: 1605506827841
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: 1c283a9e6423450086244e0fa54a7dad
+run_uuid: 1c283a9e6423450086244e0fa54a7dad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1605506827790
+status: 3
+tags: []
+user_id: siddh
